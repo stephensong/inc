@@ -11,21 +11,22 @@ I'm sort of stuck with this project, and doubt that it is really worth investing
 What might work (probably, .. possibly :):
 -----------------------------
 
-  Vectors.  (The first thing I did and the most satisfying)
-  Macros.  (A pretty fair rendition of Clojure even if I do say so myself :)
-  Lazy-seq's.  (Ditto.)
-  Stm.  (Not really tested though.  All I did really was include an f# implementation I found on the interwebs.)
-  Agents/Refs/Atoms.  (Again not really tested)
-  Interop with .NET code
+- Vectors.  (The first thing I did and the most satisfying)
+- Macros.  (A pretty fair rendition of Clojure even if I do say so myself :)
+- Lazy-seq's.  (Ditto.)
+- Stm.  (Not really tested though.  All I did really was include an f# implementation I found on the interwebs.)
+- Agents/Refs/Atoms.  (Again not really tested)
+- Interop with .NET code
 
 
 What definitely doesn't work.
 -----------------------------
 
-  Namespaces.  (very basic support only)
-  Protocols / Datatypes (not implemented)
-  Transients.
-  .. and much, much more. 
+- Namespaces.  (very basic support only)
+- Protocols / Datatypes (not implemented)
+- Transients.
+
+.. and much, much more. 
 
 Personal Details.
 -----------------
