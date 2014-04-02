@@ -41,9 +41,9 @@ let rep env =
 
 
 
-let test () =
+let test ftest =
 
-    load "\dev\Inc\Test.inc"
+    load ftest
 
     let case source expected =
         try
